@@ -30,7 +30,6 @@ setup(
         ('', (
             "AUTHORS",
             "COPYING",
-            "FAQ",
             "INSTALL",
             "NEWS",
             "README",
