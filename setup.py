@@ -30,11 +30,6 @@ setup(
         ('', (
             "AUTHORS",
             "COPYING",
-            "INSTALL",
-            "NEWS",
-            "README",
-            "THANKS",
-            "VERSION",
         )),
     ),
 )
