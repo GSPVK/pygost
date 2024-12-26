@@ -37,5 +37,4 @@ setup(
             "VERSION",
         )),
     ),
-    tests_require=["pyderasn~=4.4"],
 )
